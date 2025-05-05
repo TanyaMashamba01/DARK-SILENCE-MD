@@ -1,7 +1,7 @@
 {
   "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
-  "logo": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0060.jpg",
+  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY Joshuamambo1♥️",
+  "logo": "https://i.ibb.co/nNBH6TyN/Joshumambo1.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,49 +16,49 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0060.jpg"
+      "value": "https://i.ibb.co/nNBH6TyN/Joshumambo1.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
+      "value": "🅹🅾︎🆂🅷🆄🅰︎🅼🅰︎🅼🅱︎🅾︎1 ᴍᴜᴘᴇɴʏɪ ғᴏʟʟᴏᴡᴇʀ  https://youtube.com/@joshuamambo1"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "*"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -87,57 +87,57 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦∂αяк-sιℓεηcε-м∂✦"
+      "value": "✦🅹🅾︎🆂🅷🆄🅰︎🅼🅰︎🅼🅱︎O1✦"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY 🅹🅾︎🆂🅷🆄🅰︎🅼🅰︎🅼🅱︎🅾︎1 ᴍᴜᴘᴇɴʏɪ ғᴏʟʟᴏᴡᴇʀ  https://youtube.com/@joshuamambo1"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү 🅹🅾︎🆂🅷🆄🅰︎🅼🅰︎🅼🅱︎O1"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
     "CURRENT_STATUS": {
       "description": "make it true if you to show your reail last seen.",
-      "required": true,
-      "value": "false"
+      "required": tue,
+      "value": "true"
     }, 
     "READ_CMD": {
       "description": "make it true if you want bot auto read commands",
@@ -147,21 +147,21 @@
     }, 
     "STATUS_REACT": {
       "description": "make it true if you want to show on status react.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     },
 
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "263738365135"
     
     }, 
 
      "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "➺🅹🅾︎🆂🅷🆄🅰︎🅼🅰︎🅼🅱︎O1࿐"
     
      }
 },
